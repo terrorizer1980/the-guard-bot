@@ -43,7 +43,7 @@
     "string-replace-async": "^1.2.1",
     "telegraf": "^3.38.0",
     "ts-node": "^8.9.1",
-    "typescript": "^3.8.3",
+    "typescript": "^3.9.9",
     "xregexp": "^4.2.0"
   },
   "engines": {
