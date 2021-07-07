@@ -37,7 +37,7 @@
     "millisecond": "^0.1.2",
     "nedb-promise": "^2.0.1",
     "node-fetch": "^2.2.0",
-    "ramda": "^0.25.0",
+    "ramda": "^0.27.1",
     "require-directory": "^2.1.1",
     "spamwatch": "^0.2.0",
     "string-replace-async": "^1.2.1",
